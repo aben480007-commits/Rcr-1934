@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "465528261702",
+    "project_id": "rc-relizane",
+    "storage_bucket": "rc-relizane.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465528261702:android:9c08139cd3980a0d42ce47",
+        "android_client_info": {
+          "package_name": "com.aistudio.rcrelizane.kxmzpq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465528261702-j9jbjqv1p0119d051e1m0avpov648uie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aistudio.rcrelizane.kxmzpq",
+            "certificate_hash": "caa107579a48bbbc9c7818e675e33eaa2f354aa1"
+          }
+        },
+        {
+          "client_id": "465528261702-mjvn2669po78cagg7t3ttp4opc0kf78t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEeXqX8D9IzxqfPkZhGhWtCfxFRzXbrEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465528261702-mjvn2669po78cagg7t3ttp4opc0kf78t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
