@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">سريع غليزان</string>
+    <string name="club_official_name">سريع غليزان</string>
+    <string name="club_short_name">RCR</string>
+    <string name="club_location">غليزان، الجزائر</string>
+    <string name="hero_headline">معاً، أقوى.</string>
+    <string name="supporters_motto">شغفنا، فخرنا.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_news">الأخبار</string>
+    <string name="nav_matches">المباريات</string>
+    <string name="nav_team">الفريق</string>
+    <string name="nav_more">المزيد</string>
+
+    <!-- Sections Plus -->
+    <string name="section_club">النادي</string>
+    <string name="section_standings">الترتيب</string>
+    <string name="section_gallery">المعرض</string>
+    <string name="section_stadium">الملعب</string>
+    <string name="section_contact">اتصل بنا</string>
+    <string name="section_settings">الإعدادات</string>
+    <string name="section_admin">الإدارة</string>
+    <string name="section_notifications">الإشعارات</string>
+
+    <!-- Actions & Labels -->
+    <string name="action_all_news">جميع الأخبار</string>
+    <string name="action_back">رجوع</string>
+    <string name="action_search_news">ابحث عن مقال…</string>
+    <string name="label_next_match">المباراة القادمة</string>
+    <string name="label_latest_results">آخر النتائج</string>
+    <string name="label_latest_news">أحدث الأخبار</string>
+    <string name="label_team_highlights">نجوم الفريق</string>
+    <string name="label_placeholder_notice">بيانات تجريبية • قابلة للتعديل</string>
+</resources>

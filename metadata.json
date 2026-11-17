@@ -1,0 +1,6 @@
+{
+  "name": "RC Relizane",
+  "description": "Application officielle du Rapid Club de Relizane (RCR) — actualités, matchs, effectif, classement, galerie et espace administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
